@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Ava and I'm a UAlbany Computer Science Student, from New York</h2>
-
+<h1 align="left">About Me!</h1>
+<p> My name is Ava <br> Pronouns: she/her</p>
 ###
 
 <div align="center">
@@ -10,7 +10,7 @@
 ###
 
 ###
-
+<h2>Languages:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
