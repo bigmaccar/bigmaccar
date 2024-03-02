@@ -1,5 +1,5 @@
-<h1 align="left">About Me!</h1>
-<p> My name is Ava <br> Pronouns: she/her <br> I'm a student at SUNY Albany <br>Major: Computer Science   Minors: Mathematics and Emergency Preparedness, Homeland Security, and Cybersecurity</p>
+<h1 align="center">About Me!</h1>
+<p align="center"> My name is Ava <br> Pronouns: she/her <br> I'm a student at SUNY Albany <br>Major: Computer Science<br>Minors: Mathematics and Emergency Preparedness, Homeland Security, and Cybersecurity</p>
 
 
 <div align="center">
